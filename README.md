@@ -3,7 +3,12 @@
 This project is a personalized dashboard widget created as part of the Frontend Developer Intern assignment for **SnapShare AI**. The widget showcases key metrics and notifications from a mock API and is designed to be clean, responsive, and production-ready using modern frontend technologies.
 
 ---
+## 🌐 Live Demo
 
+You can view the deployed project here:  
+🔗 [https://personalized-dashboard-widget-creat-lyart.vercel.app/](https://personalized-dashboard-widget-creat-lyart.vercel.app/)
+
+---
 ## 🚀 Features
 
 - 📊 **Analytics Summary Widget**: Displays total users, new signups, active users, today's revenue, and conversion rate.
